@@ -1,4 +1,15 @@
 [
     "index.md",
-    "inhoudstafel.md"
+    "content.md",
+    [
+        "1-intro/title.md",
+        "1-intro/nosql-what.md",
+        "1-intro/nosql-why.md",
+        "1-intro/nosql-types.md",
+        "1-intro/nosql-cap.md",
+        "1-intro/nosql-advantages.md",
+        "1-intro/cas-what.md",
+        "1-intro/cas-basis.md",
+        "1-intro/cas-cap.md"
+    ]
 ]
