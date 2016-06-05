@@ -1,4 +1,9 @@
 [
     "index.md",
-    "inhoudstafel.md"
+    "content.md",
+    [
+        "1_inl/title-inleiding.md",
+        "1_inl/nosql.md",
+        "1_inl/cassandra.md"
+    ]
 ]
