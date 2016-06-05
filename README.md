@@ -1,2 +1,2 @@
-# BP_Presentatie
+# Presentatie BP: NoSql - Cassandra
 Presentatie bij BP
