@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Cassandra",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "Tyslan",
+    "githubRepository": "BP_Presentatie"
+  }
+}
