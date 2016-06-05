@@ -11,5 +11,15 @@
         "1-intro/cas-what.md",
         "1-intro/cas-basis.md",
         "1-intro/cas-cap.md"
+    ],
+    [
+        "2-arch/architecture.md",
+        "2-arch/arch-partitioner.md",
+        "2-arch/arch-partitioner-ex.md",
+        "2-arch/arch-replication.md",
+        "2-arch/arch-replication-ex.md",
+        "2-arch/arch-snitch.md",
+        "2-arch/arch-snitch-ex.md",
+        "2-arch/arch-seed.md"
     ]
 ]
