@@ -1,8 +1,6 @@
 ##  CAP Theorie van Brewer
 
-<img src="./slides/img/cap.png"/>
-
-![CAP THEORY](./slides/img/cap.png "CAP Theorie")
+<img src="./img/1-intro/cap.png" alt="CAP Theory"/>
 
 2000: 2 uit 3
 
