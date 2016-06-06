@@ -40,5 +40,17 @@
         "4-cluster/ops-add-1.md",
         "4-cluster/ops-add-2.md",
         "4-cluster/ops-remove.md"
+    ],
+    [
+        "5-model/model.md",
+        "5-model/prim-key.md",
+        "5-model/part-col.md",
+        "5-model/clus-col.md",
+        "5-model/res-part.md",
+        "5-model/res-clus.md",
+        "5-model/goal.md",
+        "5-model/create-model-1.md",
+        "5-model/create-model-2.md",
+        "5-model/speed.md"
     ]
 ]
