@@ -58,5 +58,14 @@
         "6-import/cqlsh.md",
         "6-import/sstableloader.md",
         "6-import/cassandra-loader.md"
+    ],
+    [
+        "7-fail/behavior.md",
+        "7-fail/gossip.md",
+        "7-fail/repair.md",
+        "7-fail/hinted-handoff.md",
+        "7-fail/anti-entropy.md",
+        "7-fail/read-repair.md",
+        "7-fail/test.md"
     ]
 ]
