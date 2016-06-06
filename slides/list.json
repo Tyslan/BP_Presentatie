@@ -72,5 +72,11 @@
         "8-backup/backup.md",
         "8-backup/snapshots.md",
         "8-backup/backup-vs-replica.md"
-    ]
+    ],
+    [
+        "9-uc/uc.md",
+        "9-uc/ucs.md",
+        "9-uc/sectors.md"
+    ],
+    "conclusion.md"
 ]
