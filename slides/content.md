@@ -9,3 +9,9 @@
 7. Gedrag bij uitval node
 8. Backups
 9. Use Cases
+
+note:
+Schaalbaarheid, betrouwbaarheid en datamodellering
+
+- Cluster om schaalbaarheid te testen
+- Uitval en backup voor betrouwbaarheid
