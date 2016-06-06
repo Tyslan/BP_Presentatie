@@ -28,5 +28,17 @@
         "3-data/data-row.md",
         "3-data/data-table.md",
         "3-data/data-keyspace.md"
+    ],
+    [
+        "4-cluster/clus.md",
+        "4-cluster/clus-apache.md",
+        "4-cluster/ops-inst-1.md",
+        "4-cluster/ops-inst-2.md",
+        "4-cluster/ops-inst-3.md",
+        "4-cluster/ops-dash.md",
+        "4-cluster/ops-nodes.md",
+        "4-cluster/ops-add-1.md",
+        "4-cluster/ops-add-2.md",
+        "4-cluster/ops-remove.md"
     ]
 ]
