@@ -52,5 +52,11 @@
         "5-model/create-model-1.md",
         "5-model/create-model-2.md",
         "5-model/speed.md"
-    ]
+    ],
+    [
+        "6-import/import.md",
+        "6-import/cqlsh.md",
+        "6-import/sstableloader.md"
+    ],
+    "cassandra-loader.md"
 ]
