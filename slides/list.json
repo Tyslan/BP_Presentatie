@@ -67,5 +67,10 @@
         "7-fail/anti-entropy.md",
         "7-fail/read-repair.md",
         "7-fail/test.md"
+    ],
+    [
+        "8-backup/backup.md",
+        "8-backup/snapshots.md",
+        "8-backup/backup-vs-replica.md"
     ]
 ]
