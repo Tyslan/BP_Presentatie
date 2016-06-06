@@ -21,5 +21,12 @@
         "2-arch/arch-snitch.md",
         "2-arch/arch-snitch-ex.md",
         "2-arch/arch-seed.md"
+    ],
+    [
+        "3-data/data-structures.md",
+        "3-data/data-column.md",
+        "3-data/data-row.md",
+        "3-data/data-table.md",
+        "3-data/data-keyspace.md"
     ]
 ]
