@@ -1,82 +1,50 @@
 [
     "index.md",
     "content.md",
+    "how/how.md ",
     [
-        "1-intro/title.md",
-        "1-intro/nosql-what.md",
-        "1-intro/nosql-why.md",
-        "1-intro/nosql-types.md",
-        "1-intro/nosql-cap.md",
-        "1-intro/nosql-advantages.md",
-        "1-intro/cas-what.md",
-        "1-intro/cas-basis.md",
-        "1-intro/cas-cap.md"
+        "how/arch/architecture.md",
+        "how/arch/partitioner.md",
+        "how/arch/replication.md",
+        "how/arch/snitch.md"
     ],
     [
-        "2-arch/architecture.md",
-        "2-arch/arch-partitioner.md",
-        "2-arch/arch-partitioner-ex.md",
-        "2-arch/arch-replication.md",
-        "2-arch/arch-replication-ex.md",
-        "2-arch/arch-snitch.md",
-        "2-arch/arch-snitch-ex.md",
-        "2-arch/arch-seed.md"
+        "how/data/data-structures.md",
+        "how/data/data-content.md"
     ],
     [
-        "3-data/data-structures.md",
-        "3-data/data-column.md",
-        "3-data/data-row.md",
-        "3-data/data-table.md",
-        "3-data/data-keyspace.md"
+        "how/repair/mechanisms.md",
+        "how/repair/methods.md"
     ],
     [
-        "4-cluster/clus.md",
-        "4-cluster/clus-apache.md",
-        "4-cluster/ops-inst-1.md",
-        "4-cluster/ops-inst-2.md",
-        "4-cluster/ops-inst-3.md",
-        "4-cluster/ops-dash.md",
-        "4-cluster/ops-nodes.md",
-        "4-cluster/ops-add-1.md",
-        "4-cluster/ops-add-2.md",
-        "4-cluster/ops-remove.md"
+        "how/speed/speed.md",
+        "how/speed/how.md"
+    ],
+    "research/research.md",
+    [
+        "research/scale/scalability.md",
+        "research/scale/res.md"
     ],
     [
-        "5-model/model.md",
-        "5-model/prim-key.md",
-        "5-model/part-col.md",
-        "5-model/clus-col.md",
-        "5-model/res-part.md",
-        "5-model/res-clus.md",
-        "5-model/goal.md",
-        "5-model/create-model-1.md",
-        "5-model/create-model-2.md",
-        "5-model/speed.md"
+        "research/avail/availability.md",
+        "research/avail/how.md"
     ],
     [
-        "6-import/import.md",
-        "6-import/cqlsh.md",
-        "6-import/sstableloader.md",
-        "6-import/cassandra-loader.md"
+        "research/model/model.md",
+        "research/model/goal.md",
+        "research/model/prim-key.md",
+        "research/model/res-clus.md",
+        "research/model/create-model-1.md",
+        "research/model/create-model-2.md"
     ],
     [
-        "7-fail/behavior.md",
-        "7-fail/gossip.md",
-        "7-fail/repair.md",
-        "7-fail/hinted-handoff.md",
-        "7-fail/anti-entropy.md",
-        "7-fail/read-repair.md",
-        "7-fail/test.md"
+        "research/import/import.md",
+        "research/import/methods.md"
     ],
     [
-        "8-backup/backup.md",
-        "8-backup/snapshots.md",
-        "8-backup/backup-vs-replica.md"
-    ],
-    [
-        "9-uc/uc.md",
-        "9-uc/ucs.md",
-        "9-uc/sectors.md"
+        "research/uc/uc.md",
+        "research/uc/ucs.md",
+        "research/uc/sectors.md"
     ],
     "conclusion.md"
 ]
