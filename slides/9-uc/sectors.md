@@ -1,7 +1,7 @@
 ##  Markten
 
 - Retail en aanbieders van digitale media
-- Financiele sector
+- Financiële sector
 
 note:
 - Retail en aanbieders van digitale media

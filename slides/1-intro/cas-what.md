@@ -5,7 +5,7 @@
 - Focus:
   - Schaalbaarheid
   - Beschikbaarheid
-  - Performant
+  - Performantie
 
 note:
 - Inbox Search probleem

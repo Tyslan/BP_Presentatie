@@ -1,1 +1,1 @@
-##  Gedrag bij uivallen van een node
+##  Gedrag bij uitvallen van een node
