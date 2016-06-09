@@ -1,4 +1,4 @@
-##  data-keyspace
+##  Keyspace
 
 cfr. Database of schema in relationele databanken
 
