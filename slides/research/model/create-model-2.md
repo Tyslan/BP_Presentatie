@@ -5,20 +5,20 @@
 
 ```SQL
 CREATE TABLE users (
-id uuid PRIMARY KEY,
-username text,
-email text,
-birthday int
+  id uuid PRIMARY KEY,
+  username text,
+  email text,
+  birthday int
 );
 
 CREATE TABLE users_by_username (
-username text PRIMARY KEY,
-id uuid
+  username text PRIMARY KEY,
+  id uuid
 );
 
 CREATE TABLE users_by_email (
-email text PRIMARY KEY,
-id uuid
+  email text PRIMARY KEY,
+  id uuid
 );
 ```
 

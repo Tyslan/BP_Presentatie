@@ -10,5 +10,5 @@
   2. Betrouwbaarheid
   3. Datamodellering
   4. Data importeren
-  5. Use Cases
+  5. Use cases
 3. Besluit

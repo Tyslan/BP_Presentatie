@@ -5,15 +5,15 @@
 
 ```SQL
 CREATE TABLE users_by_username (
-username text PRIMARY KEY,
-email text,
-birthday timestamp
+  username text PRIMARY KEY,
+  email text,
+  birthday timestamp
 );
 
 CREATE TABLE users_by_email (
-email text PRIMARY KEY,
-username text,
-birthday timestamp
+  email text PRIMARY KEY,
+  username text,
+  birthday timestamp
 );
 ```
 
