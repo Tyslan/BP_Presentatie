@@ -8,8 +8,8 @@
 ```
 
 _**Partitiekolom:**_
+- Fysieke locatie
 - Data gebalanceerd verspreiden
-- Snel fysieke locatie bepalen
 - Restrictie:
   - 'Slechts' 2 miljard entry's per partitie
 

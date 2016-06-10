@@ -2,8 +2,8 @@
 
 ```
 CREATE TABLE NumberOfTwitterMessages (
-userid bigint, date text, hour int, minute int, nrOfTweets int,
-PRIMARY KEY ()(userid, date), hour, minute)
+  userid bigint, date text, hour int, minute int, nrOfTweets int,
+  PRIMARY KEY ()(userid, date), hour, minute)
 );
 ```
 
